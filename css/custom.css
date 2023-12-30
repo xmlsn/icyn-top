@@ -1,5 +1,7 @@
 :root {
     --header-height: 60px;
     --box-border-radius: 20px;
+    --header-shrink-height: 55px;
     --first-screen-font-offset: -30px;
+    --first-screen-font-size: 45px;
 }
